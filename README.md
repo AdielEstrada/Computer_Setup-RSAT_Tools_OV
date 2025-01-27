@@ -27,3 +27,5 @@ You will see various settings, but for now, we only want to concentrate on the o
 A screen that shows the IP address of the device will be shown. Once it pops up, you will see that the settings that are there by default are to get an IP address and DNS server automatically. We want to change it so that we could access the server through an easily identified IP address. So, to change it, click on "Use the following IP address" and "Use the following DNS server addresses". Enter an IP address, just like shown in the following image. 
 
 <img src="https://i.ibb.co/GH3103V/6-Change-settings.png">
+
+We can press OK, and exit out of everything. Now, for our VM to recognize the change and be better able to communicate with other computers, we can go to the
