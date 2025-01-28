@@ -28,4 +28,17 @@ A screen that shows the IP address of the device will be shown. Once it pops up,
 
 <img src="https://i.ibb.co/GH3103V/6-Change-settings.png">
 
-We can press OK, and exit out of everything. Now, for our VM to recognize the change and be better able to communicate with other computers, we can go to the
+We can press OK, and exit out of everything. Now, for our VM to recognize the change and be better able to communicate with other computers, we can go to the "Devices" tab of VirtualBox. Under devices, go to "Network" and "Network Settings". Change the drop-down option to "Host-only adapter". This option will allow the VM to communicate with other VMs that we create, but not to an outside network. 
+
+<img src="https://i.ibb.co/0KrDDVx/6-Change-adapter-settings.png">
+
+Once that is done, you can press OK, and exit out of everything. 
+
+## Setting Up Windows 10
+> Open your browser and download the Windows Media Creation Tool. Open it and create an ISO file to download Windows 10. Store it in your desktop to have easy access as you will need this later. 
+
+Create a new Windows 10 VM, and name it something easy to remember. An example could be "Desktop1" or "Windows 10 Desktop". Leave everything as default, and make sure you are going to boot the system manually. 
+
+Then, once you are ready, a boot screen will pop-up, telling you to mount a file to boot the VM. Choose the drop-down arrow to browse the available files. Choose the Windows.iso file that you have downloaded. Then, click "Mount and Retry Boot"
+
+<img src="https://i.ibb.co/5YJcvNR/8-Mount-and-retry-reboot.png">
