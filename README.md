@@ -42,3 +42,15 @@ Create a new Windows 10 VM, and name it something easy to remember. An example c
 Then, once you are ready, a boot screen will pop-up, telling you to mount a file to boot the VM. Choose the drop-down arrow to browse the available files. Choose the Windows.iso file that you have downloaded. Then, click "Mount and Retry Boot"
 
 <img src="https://i.ibb.co/5YJcvNR/8-Mount-and-retry-reboot.png">
+
+Windows will boot, and a screen telling you to choose your language will pop-up. We can click Next. 
+
+<img src="https://i.ibb.co/p1JJSCt/9-Windows-10-next.png">
+
+Then, a Windows Setup screen pops-up. We can click "Install Now". 
+
+<img src="https://i.ibb.co/5M91GdS/10-Install-now.png">
+
+An Activate Windows screen will show. We won't need a product key for the intallation, so click "I don't have a product key". 
+
+<img src="https://i.ibb.co/0VFZfBK/11-I-don-t-have-a-product-key.png">
