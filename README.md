@@ -54,3 +54,11 @@ Then, a Windows Setup screen pops-up. We can click "Install Now".
 An Activate Windows screen will show. We won't need a product key for the intallation, so click "I don't have a product key". 
 
 <img src="https://i.ibb.co/0VFZfBK/11-I-don-t-have-a-product-key.png">
+
+The Windows Setup screen will now prompt you to select an operating system. For our purposes, we need to use Windows 10 Pro, since this operating system allows us to join a computer to the domain, and will allow us to experiment with more features of the server environment we have created. So, click on Windows 10 Pro, and click Next. 
+
+<img src="https://i.ibb.co/yqQrDZw/12-Chose-windows-10-pro.png">
+
+Then, accept the license agreement, and click Next. 
+
+<img src="https://i.ibb.co/5BXQPfF/13-Accept-license-agreement.png">
