@@ -62,3 +62,23 @@ The Windows Setup screen will now prompt you to select an operating system. For 
 Then, accept the license agreement, and click Next. 
 
 <img src="https://i.ibb.co/5BXQPfF/13-Accept-license-agreement.png">
+
+The Windows Setup screen will ask you what type of installation you want to perform. Since Windows isn't installed, you have to do a custom install. So, click on "Custom".
+
+<img src="https://i.ibb.co/840K7yfZ/14-Custom-install.png">
+
+We don't have to do anything in the next screen because we don't need to do a partition in this case. So we click next.
+
+The Windows setup screen will finish with a screen called Installing Windows. You will see a few tasks that the computer is undertaking. 
+
+Once the computer is getting to restart, you should right-click on the disk icon in the right bottom area of the VM. Click on an option to remove the disk. If you would be doing this on a physical computer, this would be the equivalent of removing the USB with the boot files. 
+
+<img src="https://i.ibb.co/Q37PkrSx/16-Remove-drive.png">
+
+Then, Windows will guide you through the setup process, just like if you were unboxing a new computer. First, it asks for your region. In our case, the region is right, so we click Yes.
+
+<img src="https://i.ibb.co/twqYY75H/17-Region.png">
+
+Then, Windows will ask you if the keyboard is the correct layout for you. Once again, just confirm that it's the correct layout, and click Yes. 
+
+<img src="https://i.ibb.co/8F3LXbq/18-Right-Keyboard.png">
