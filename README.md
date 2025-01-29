@@ -77,8 +77,9 @@ Once the computer is getting to restart, you should right-click on the disk icon
 
 Then, Windows will guide you through the setup process, just like if you were unboxing a new computer. First, it asks for your region. In our case, the region is right, so we click Yes.
 
-<img src="https://i.ibb.co/twqYY75H/17-Region.png">
-
 Then, Windows will ask you if the keyboard is the correct layout for you. Once again, just confirm that it's the correct layout, and click Yes. 
 
-<img src="https://i.ibb.co/8F3LXbq/18-Right-Keyboard.png">
+
+The next screen will ask if you want to add a second keyboard layout. In our case, we don't, so we press skip. 
+
+The next screen will ask us how we want to set up the computer. The two options are: "Set up for personal use", or "Set up for an organization". For our purposes we are gping to do the set-up for personal use, but keep in mind that some organizations actually set it up for an organization.
