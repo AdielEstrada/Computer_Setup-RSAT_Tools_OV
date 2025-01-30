@@ -77,6 +77,8 @@ Once the computer is getting to restart, you should right-click on the disk icon
 
 Then, Windows will guide you through the setup process, just like if you were unboxing a new computer. First, it asks for your region. In our case, the region is right, so we click Yes.
 
+<img src="https://i.ibb.co/27HPrymD/17-Region.png">
+
 Then, Windows will ask you if the keyboard is the correct layout for you. Once again, just confirm that it's the correct layout, and click Yes. 
 
 
