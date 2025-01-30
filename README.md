@@ -102,3 +102,13 @@ We then are prompted to sign in, but we don't need to sign in. So, we are going 
 Now, it will prompt us to create an account. In this case, we are going to use the name user. Type "user" in the box.  
 
 <img src="https://images2.imgbox.com/b1/75/5zIvrNkK_o.png">
+
+The next prompt will ask you to create a password. Since we are going to activate and admin account later, we are just going to press the Enter key or press Next. 
+
+<img src="https://images2.imgbox.com/be/2e/oKRIbSUJ_o.png">
+
+The next 4 screens will just ask questions about services that are available in Windows. Feel free to answer based on personal preference. 
+
+Finally, you are greeted with the Windows operating system. A network question may appear, asking if you want your PC to be discoverable by other PCs and devices on the network. You can press yes. That concludes setting up Windows 10. 
+
+> Although the process may seem different visually, many of these principles apply to setting up a Windows 11 computer. 
