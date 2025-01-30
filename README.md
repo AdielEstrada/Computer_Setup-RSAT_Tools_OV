@@ -81,7 +81,22 @@ Then, Windows will guide you through the setup process, just like if you were un
 
 Then, Windows will ask you if the keyboard is the correct layout for you. Once again, just confirm that it's the correct layout, and click Yes. 
 
+<img src="https://i.ibb.co/kV9gCQ8g/18-Right-Keyboard.png">
 
 The next screen will ask if you want to add a second keyboard layout. In our case, we don't, so we press skip. 
 
+<img src="https://i.ibb.co/HLfrXZqf/19-No-second-keyboard-1.png">
+
 The next screen will ask us how we want to set up the computer. The two options are: "Set up for personal use", or "Set up for an organization". For our purposes we are gping to do the set-up for personal use, but keep in mind that some organizations actually set it up for an organization.
+
+<img src="https://i.ibb.co/Pv59D26V/20-Set-up-1.png">
+
+The next screen will prompt you to add your account. We want to use an offline account, so we will press the button on the left that says "Offline account". 
+
+<img src="https://i.ibb.co/99bMLcPJ/21-offline-account.png">
+
+We then are prompted to sign in, but we don't need to sign in. So, we are going to press "Limited experience". 
+
+<img src="https://i.ibb.co/WN9WRv3T/22-Limited-experience.png">
+
+Now, it will prompt us to create an account. In this case, we are going to use the name user. Type "user" in the box.  
