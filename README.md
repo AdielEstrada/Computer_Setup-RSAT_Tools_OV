@@ -138,3 +138,13 @@ A warning will pop-up. This is basically telling us that for security reasons, a
 Next, create a password that is easy to remember. Confirm the password, and press OK.
 
 <img src="https://images2.imgbox.com/b8/07/VN5kPhBH_o.png">
+
+A pop-up will say that the Password has been set. Just press OK. 
+
+Now, right click on the user named "user", and click Delete.
+
+<img src="https://images2.imgbox.com/5b/1b/KUQBU3pl_o.png">
+
+Confirm that you want to delete the user, and press OK. 
+
+## Adding RSAT Tools to the Desktop
