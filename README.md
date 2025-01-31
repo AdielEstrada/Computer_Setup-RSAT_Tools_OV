@@ -124,14 +124,17 @@ Under System Tools, Open Local Users and Groups by double-clicking the icon. Ope
 
 On the Administrator Properties pop-up menu, undo the checkbox called Account is Disabled. Click Apply and press OK.
 
-<img src="https://thumbs2.imgbox.com/ce/bf/cTUduaJ8_t.png">
+<img src="https://images2.imgbox.com/77/2c/ks100wpg_o.png">
 
 ## Changing Administrator Password
 To change the administrator password, right-click on the administrator account and click Set Password. 
 
-<img src="https://thumbs2.imgbox.com/6a/88/J9uCSX1u_t.png">
+<img src="https://images2.imgbox.com/21/a1/pitqCxIn_o.png">
 
 A warning will pop-up. This is basically telling us that for security reasons, any previous information stored in the administrator account will be deleted. However, since we haven't set up any password, we can ignore this warning. Press Proceed. 
 
-<img src="https://thumbs2.imgbox.com/20/f7/wzFyYikg_t.png">
+<img src="https://images2.imgbox.com/20/f7/wzFyYikg_o.png">
 
+Next, create a password that is easy to remember. Confirm the password, and press OK.
+
+<img src="https://images2.imgbox.com/b8/07/VN5kPhBH_o.png">
