@@ -111,4 +111,6 @@ The next 4 screens will just ask questions about services that are available in 
 
 Finally, you are greeted with the Windows operating system. A network question may appear, asking if you want your PC to be discoverable by other PCs and devices on the network. You can press yes. That concludes setting up Windows 10. 
 
-> Although the process may seem different visually, many of these principles apply to setting up a Windows 11 computer. 
+> Although the process may seem different visually, many of these principles apply to setting up a Windows 11 computer.
+
+## Activating Administrator Account
