@@ -113,4 +113,25 @@ Finally, you are greeted with the Windows operating system. A network question m
 
 > Although the process may seem different visually, many of these principles apply to setting up a Windows 11 computer.
 
-## Activating Administrator Account
+## Activating Administrator Account on Desktop
+To activat the Admin account in the desktop, open file explorer. Right-click on This PC, and click Manage. 
+
+<img src="https://images2.imgbox.com/4a/e1/BVgrzVPS_o.png">
+
+Under System Tools, Open Local Users and Groups by double-clicking the icon. Open the Users folder. On the right, you will see various accounts. Right-click on the administrator account, and click Properties. 
+
+<img src="https://images2.imgbox.com/9b/c8/pvw5YHxA_o.png">
+
+On the Administrator Properties pop-up menu, undo the checkbox called Account is Disabled. Click Apply and press OK.
+
+<img src="https://thumbs2.imgbox.com/ce/bf/cTUduaJ8_t.png">
+
+## Changing Administrator Password
+To change the administrator password, right-click on the administrator account and click Set Password. 
+
+<img src="https://thumbs2.imgbox.com/6a/88/J9uCSX1u_t.png">
+
+A warning will pop-up. This is basically telling us that for security reasons, any previous information stored in the administrator account will be deleted. However, since we haven't set up any password, we can ignore this warning. Press Proceed. 
+
+<img src="https://thumbs2.imgbox.com/20/f7/wzFyYikg_t.png">
+
