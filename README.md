@@ -1,4 +1,4 @@
-# Part 4 - Setting Up A Computer With RSAT Tools, and Joining It To A Domain
+# Part 4 - Joining A PC To A Domain
 
 > [!NOTE]
 > Have the server environment open and be logged in as administrator.
@@ -146,5 +146,3 @@ Now, right click on the user named "user", and click Delete.
 <img src="https://images2.imgbox.com/5b/1b/KUQBU3pl_o.png">
 
 Confirm that you want to delete the user, and press OK. 
-
-## Adding RSAT Tools to the Desktop
